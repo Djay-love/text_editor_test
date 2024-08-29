@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jonge Onderzoekers\\ownCloud\\jelle\\text_editor_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF44DE56-3FD8-4B90-A387-796726001DDF}|text_editor_test\\text_editor_test.csproj|c:\\users\\jonge onderzoekers\\owncloud\\jelle\\text_editor_test\\text_editor_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF44DE56-3FD8-4B90-A387-796726001DDF}|text_editor_test\\text_editor_test.csproj|solutionrelative:text_editor_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jonge Onderzoekers\\ownCloud\\jelle\\text_editor_test\\text_editor_test\\Program.cs",
+              "RelativeDocumentMoniker": "text_editor_test\\Program.cs",
+              "ToolTip": "C:\\Users\\Jonge Onderzoekers\\ownCloud\\jelle\\text_editor_test\\text_editor_test\\Program.cs",
+              "RelativeToolTip": "text_editor_test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:17:15.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
